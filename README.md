@@ -1,16 +1,10 @@
-# test10
+# Application Company marketing Dates
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter project.
+An application of invoices that originated in my graduation project and is on the team.
+I developed a comprehensive invoice management system specifically tailored for the dates market. And is linked to all the departments that need to see their details:
+First, for the company to manage the work, its effectiveness, and all the sections listed below.
+Secondly, for merchants who work by trade and the merchants who work by credit. Merchants can easily track their buys and manage their accounts
+Thirdly, Farmers can see what private drivers have sold on their farms and can see what money is left in their accounts.
+Four and finally are the employees, who create new invoices and they differ in their powers.
+The project was big for my knowledge of the language at that time.
